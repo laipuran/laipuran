@@ -10,7 +10,7 @@
 ![Puran Lai's GitHub stats](https://github-readme-stats.vercel.app/api?username=laipuran&show_icons=true&theme=merko)
 
 #### Top Languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laipuran&exclude=laipuran.github.io,blog-img,laipuran)](https://github.com/laipuran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laipuran&exclude_repo=laipuran.github.io,blog-img,laipuran)](https://github.com/laipuran)
 
 <!--
 **laipuran/laipuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
