@@ -2,7 +2,7 @@
 
 #### Pinned Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laipuran&repo=LuckDraw)](https://github.com/laipuran/LuckDraw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laipuran&repo=LuckDraw.UWP)](https://github.com/laipuran/LuckDraw.UWP)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laipuran&repo=laipuran.github.io)](https://github.com/laipuran/laipuran.github.io)
 
